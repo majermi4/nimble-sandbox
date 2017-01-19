@@ -1,0 +1,14 @@
+{
+    "name": "majermi4/nimble_sandbox",
+    "description": "This is a sandbox application for the Nimble project. You can start a new project based on this package .",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Michal Majer",
+            "email": "majermi4@gmail.com"
+        }
+    ],
+    "minimum-stability": "alpha",
+    "require": {}
+}
