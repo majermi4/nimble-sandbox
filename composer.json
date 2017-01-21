@@ -10,5 +10,7 @@
         }
     ],
     "minimum-stability": "alpha",
-    "require": {}
+    "require": {
+        "majermi4/nimble_platform": "dev-master"
+    }
 }
